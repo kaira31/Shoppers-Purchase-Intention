@@ -44,6 +44,7 @@ Recall: 0.88
 Support Vector Machines aim to find the optimal hyperplane for classification. Results:
 
 Various SVM models with different techniques.
+
 Optimal lambda value: 0.1.
 Accuracy: 0.84
 F1 Score: 0.91
