@@ -24,6 +24,7 @@ Visualization of the proportion of True (1) and False (0) for balancing insights
 Analysis of visitor types by month and special day correlations.
 Understanding the impact of month and visitor type on revenue (True/False).
 ## Results
+Please note that all the results and visualizations can be found in the Jupyter notebook. You can refer to the notebook for detailed results and visual insights
 ## Logistic Regression Model
 Logistic Regression models the probability of input belonging to a class using a logistic function. The logistic regression hypothesis:
 
